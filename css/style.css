@@ -530,7 +530,7 @@ opacity: 0.8;
 
     .order{
         
-        grid-template-columns: repeat(2, 0px);
+        grid-template-columns: repeat(2, 250px);
         /* grid-template-rows: none; */
         margin-left: 30%;
         margin-top: 5%;
